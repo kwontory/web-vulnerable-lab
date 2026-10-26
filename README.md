@@ -3,7 +3,7 @@
 웹 취약점 점검 실습용 환경 (OWASP Juice Shop + DVWA)
 
 ## ⚠️ 주의
-- 의도적으로 취약한 애플리케이션입니다. 외부에 노출하지 마세요.
+- 의도적으로 취약하게 제작한 애플리케이션입니다. 외부에 노출하지 마세요.
 - 실습은 반드시 이 로컬 환경에서만 진행합니다.
 
 ## 요구사항
@@ -11,7 +11,7 @@
 
 ## 실행
 ```bash
-git clone https://github.com/<계정명>/web-vulnerable-lab.git
+git clone https://github.com/kwontory/web-vulnerable-lab.git
 cd web-vulnerable-lab
 docker compose up -d
 ```
